@@ -2,14 +2,13 @@
 
 **Linux® Day** es una celebracion anual a nivel mundial del sistema operativo libre, basado en Unix. 
 
-Este año **Linux Day** se celebra su 25 aniversario el 27 de agosto de 2016. 
+Este año **Linux Day** celebra su 25 aniversario el 27 de agosto de 2016. 
 
 #
 	- Fecha: 06 de agosto de 2016
 	- Lugar: Universidad Interamericana de Panamá.
 
 1. Organizadores del evento:
-
 	- Abdel Martínez
 	- José Reyes.
 	- Shelsy Chanis.
