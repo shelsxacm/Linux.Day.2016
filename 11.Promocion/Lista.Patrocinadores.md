@@ -1,3 +1,4 @@
+Algunos posibles patrocinadores son:
 * **Alcenit**: Min Chen - mchen@alcenit.com
 * **Baker Tilly Panamá**: Roderick Guerra - rguerra@bakertillypanama.com
 * **ElConix**: Virgilio Milord - vmilord@elconix.com
@@ -10,3 +11,6 @@
 * **Universidad Interamericana de Panamá**: Yanzelyz Ng - yanzely.ng@uip.pa
 * **Solusoft**: Mario Ernesto Typaldos - marioernesto.typaldos@solusoft.com 
 * **IEEE**: Alessandro Francolini - francolini@computer.org
+* **Ayudinga Media**: Johel Batista - johel41@gmail.com
+
+Adicionalmente, se me ocurre solicitar fondos a Fedora y Mozilla, pero sería específicamente para swag propio del proyecto.
