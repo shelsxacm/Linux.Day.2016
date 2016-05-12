@@ -1,15 +1,24 @@
 ## Workshop Pre-Linux Day
-- *Workshop # 00*: Sábado 04 de junio.
+- *Workshop # 00*: Sábado 04 de Junio.
 	- Tema: Introducción a Linux. **Aprende a ser usuario/contribuyente.**
-- *Workshop # 01*: Sábado 25 de junio.
- 	- Tema: La Importancia de la Traducción y QA en Linux.
-- *Workshop # 02*: Sábado 16 de julio.
-	- Tema: **¿Qué es Docker?** Describir la visión de Docker, las ventajas que nos ofrece, su arquitectura. Al final compartir una mesa redonda para responder las dudas generadas y exponer nuestros puntos de vista sobre Docker.
-- *Workshop # 03*: Sábado 00 de julio.    
-	- Tema: **Git y GitHub**: Introducción a Git. Grupos, proyectos, repositorios y permisos. Issues y comments. Línea de comandos. Branching y workflow. Merge requests y code review.
 
-    
-   	Crear los MeetUp.
+
+- *Workshop # 01*: Sábado 25 de Junio.
+ 	- Tema: La Importancia de la Traducción y QA en Linux.
+
+
+- *Workshop # 02*: Sábado 02 de Julio.
+  - Tema: **Hagamos un Web App moderno con Vuejs!**
+
+
+- *Workshop # 03*: Sábado 23 de Julio.    
+	- Tema: **Git y GitHub**
+      - Introducción a Git.
+      - Grupos, proyectos, repositorios y permisos.
+      - Issues y comments.
+      - Línea de comandos.
+      - Branching y workflow.
+      - Merge requests y code review.
 
 ## Linux Day
 - Sábado 06 de agosto.
