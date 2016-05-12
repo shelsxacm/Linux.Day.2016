@@ -3,7 +3,7 @@
 	- Tema: Introducción a Linux. **Aprende a ser usuario/contribuyente.**
 
 
-- *Workshop # 01*: Sábado 25 de Junio.
+- *Workshop # 01*: Sábado 18 de Junio.
  	- Tema: La Importancia de la Traducción y QA en Linux.
 
 
@@ -11,7 +11,7 @@
   - Tema: **Hagamos un Web App moderno con Vuejs!**
 
 
-- *Workshop # 03*: Sábado 23 de Julio.    
+- *Workshop # 03*: Sábado 16 de Julio.    
 	- Tema: **Git y GitHub**
       - Introducción a Git.
       - Grupos, proyectos, repositorios y permisos.
