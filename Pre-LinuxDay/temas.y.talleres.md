@@ -4,7 +4,13 @@
 
 
 - *Workshop # 01*: Sábado 18 de Junio.
- 	- Tema: La Importancia de la Traducción y QA en Linux.
+ 	- Tema: **Git y GitHub**
+      - Introducción a Git.
+      - Grupos, proyectos, repositorios y permisos.
+      - Issues y comments.
+      - Línea de comandos.
+      - Branching y workflow.
+      - Merge requests y code review.
 
 
 - *Workshop # 02*: Sábado 02 de Julio.
@@ -12,13 +18,7 @@
 
 
 - *Workshop # 03*: Sábado 16 de Julio.    
-	- Tema: **Git y GitHub**
-      - Introducción a Git.
-      - Grupos, proyectos, repositorios y permisos.
-      - Issues y comments.
-      - Línea de comandos.
-      - Branching y workflow.
-      - Merge requests y code review.
+	- Tema: **La Importancia de la Traducción y QA en Linux.**
 
 ## Linux Day
 - Sábado 06 de agosto.
